@@ -96,8 +96,8 @@ Collaborators:
 - Will-TA
 - Starter code provided by [username](...)
 - Asia Kemp- [Akemp24](...)
-- Isabel Nance-[](...)
-- Jaldhara Patel-[](...)
+- Isabel Nance-[KEINance](...)
+- Jaldhara Patel-[jaldhara21](...)
 - Joseph Rudasill- [TheWiseSailor](...)
 - Emily Funk- [4FunkE](...)
 
